@@ -1,0 +1,51 @@
+body {
+  background-color: #CFF5E7;
+}
+
+hr {
+  border: 5px #59C1BD;
+  border-style: none none dotted;
+  width: 5%;
+}
+
+h1 {
+  color: #0D4C92;
+}
+
+h2{
+  color: #0D4C92;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #0D4C92;
+  font-size: 2.0rem;
+}
+
+p {
+  font-size: 1.7rem;
+}
+
+li{
+  font-size: 1.7rem;
+}
+
+th{
+  font-size: 1.5rem;
+}
+
+td{
+  font-size: 1.5rem;
+}
+
+a{
+  font-size: 2.0rem;
+}
+
+label{
+  font-size: 1.7rem;
+}
+
+.circular_img{
+  border-radius: 100%
+}
